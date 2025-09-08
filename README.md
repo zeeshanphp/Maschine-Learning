@@ -22,4 +22,12 @@ This repository contains basic concepts of Maschine Learning which includes deta
   +  Using Boxplot (used IQR Score to visualize outliers)
   +  Using Z-Score 
   +  Using IQR Score
+  <!-- Removing Outliers -->
+  +  Removing Outliers using median
+  +  Removing Outliers using Winsorization
+  +  Removing Outliers using Trimming
+  +  Imputing Outliers using IQR Score
+  <!-- Imputing Outliers -->
+  +  Imputing Outliers using Machine Learning (RandomForestRegressor)
+
 
