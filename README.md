@@ -3,7 +3,7 @@ This repository contains basic concepts of Maschine Learning which includes deta
 # What is inside this Repository ?
 ## Data-Visualization
   + Using Seaborn
-  (b) Using Plotly
-  (c) Simple Charts
-  (d) Animated Charts
-  (e) Facet Charts
+  +  Using Plotly
+  +  Simple Charts
+  +  Animated Charts
+  +  Facet Charts
