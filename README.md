@@ -15,3 +15,11 @@ This repository contains basic concepts of Maschine Learning which includes deta
   +  Simple Imputer
   +  KNN Imputer KNNImputer(n_neighbors=3)
   +  Iterative Imputer IterativeImputer(max_iter=10, random_state=24)
+
+  <!-- Adding sub heading -->
+## Outliers
+&nbsp;&nbsp;&nbsp;&nbsp;To check outliers we used Titanic Dataset and outliers have been treated with following techniques
+  +  Using Boxplot (used IQR Score to visualize outliers)
+  +  Using Z-Score 
+  +  Using IQR Score
+
