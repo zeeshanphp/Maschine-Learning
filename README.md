@@ -11,7 +11,7 @@ This repository contains basic concepts of Maschine Learning which includes deta
 &nbsp;&nbsp;&nbsp;&nbsp;To check missing values we used two Datasets Titanic and airbnb and missing values have been imputed with following techniques
   +  Using Mean, Median For Numerical Columns
   +  Using Mode For Categorical Columns  
-&nbsp;&nbsp;&nbsp;&nbsp; **Using Scikit-Learn**
+**Using Scikit-Learn**
   +  Simple Imputer
   +  KNN Imputer KNNImputer(n_neighbors=3)
   +  Iterative Imputer IterativeImputer(max_iter=10, random_state=24)
