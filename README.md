@@ -22,4 +22,17 @@ This repository contains basic concepts of Maschine Learning which includes deta
   +  Using Boxplot (used IQR Score to visualize outliers)
   +  Using Z-Score 
   +  Using IQR Score
+  <!-- Removing Outliers -->
+  +  Removing Outliers using median
+  +  Removing Outliers using Winsorization
+  +  Removing Outliers using Trimming
+  +  Imputing Outliers using IQR Score
+  <!-- Imputing Outliers -->
+  +  Imputing Outliers using Machine Learning (RandomForestRegressor)
 
+
+## Feature Transformation
+&nbsp;&nbsp;&nbsp;&nbsp;To transform features we used Titanic Dataset and features have been transformed with following techniques
+  +  Using Yeo-Johnson Transformation
+  +  Using Box-Cox Transformation (only for positive values)
+  +  Using Quantile Transformation 
