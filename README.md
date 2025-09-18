@@ -35,4 +35,6 @@ This repository contains basic concepts of Maschine Learning which includes deta
 &nbsp;&nbsp;&nbsp;&nbsp;To transform features we used Titanic Dataset and features have been transformed with following techniques
   +  Using Yeo-Johnson Transformation
   +  Using Box-Cox Transformation (only for positive values)
-  +  Using Quantile Transformation 
+  +  Using Quantile Transformation (Perfect for conversion to Gaussion Distributon)
+
+  
